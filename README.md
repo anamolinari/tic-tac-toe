@@ -67,7 +67,7 @@ Throughout the development process, I encountered some interesting challenges:
 
 ## Project access
 
-To access the source code of the project, [click here](tic-tac-toe-git-main-anamolinari.vercel.app). 
+To access the source code of the project, [click here](https://tic-tac-toe-git-main-anamolinari.vercel.app/). 
 
 ## Leave your comment
 
