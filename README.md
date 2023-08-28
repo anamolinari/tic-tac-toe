@@ -51,7 +51,9 @@ Throughout the development process, I encountered some interesting challenges:
 ## Application
 
 <div align="center">
-<img width="886" alt="tic-tac-toe-ana-molinari" src="https://github.com/anamolinari/tic-tac-toe/assets/121121296/4eaffebe-5440-44fe-8512-16901f38988c">
+  <a href="https://tic-tac-toe-git-main-anamolinari.vercel.app/">
+    <img width="886" alt="tic-tac-toe-ana-molinari" src="https://github.com/anamolinari/tic-tac-toe/assets/121121296/4eaffebe-5440-44fe-8512-16901f38988c">
+  </a>
 </div>
 
 ###
