@@ -1,0 +1,24 @@
+.combined-endBoard {
+    background-color: #12BDAC;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    padding: 70.5px 0 70.5px 0;
+}
+
+.text-endBoard {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: #545454;
+}
+
+.image-endBoard img {
+    width: 200px; 
+    padding: 0 10px 20px 10px;
+}

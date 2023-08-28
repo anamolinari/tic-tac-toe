@@ -1,0 +1,40 @@
+.game-tabuleiro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #12BDAC;
+    padding: 60px;
+}
+
+.linha-tabuleiro {
+    display: flex;
+    justify-content: center;
+}
+
+.quadrado {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #12BDAC;
+    width: 100px;
+    height: 100px;
+    border: none; 
+    outline: none; 
+    padding: 2px;
+}
+
+/* Linhas horizontais*/
+.linha-tabuleiro:not(:first-child) .quadrado {
+    border-top: 8px solid #0BA192; 
+}
+
+/*Linhas verticais*/
+.linha-tabuleiro .quadrado:not(:first-child) {
+    border-left: 8px solid #0BA192; 
+}
+
+.quadrado img {
+    width: 70%;
+    height: 70%;
+}

@@ -1,0 +1,22 @@
+.footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-text {
+    color: #12BDAC;
+    cursor: pointer;
+    text-align: center;
+    font-weight: bold;
+    line-height: 28px;
+    font-size: 14px;
+    font-family: sans-serif;
+    margin: 20px auto;
+    border: none;
+    background-color: transparent;
+}
+
+.footer-text:hover {
+    color: #0BA192;
+}
