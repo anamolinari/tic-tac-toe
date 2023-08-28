@@ -2,7 +2,6 @@ import React from "react";
 import  "./EndBoard.module.css"
 
 function EndBoard({ winner }) {
-    let endBoardContent;
 
     if (winner === "X") {
         return (
