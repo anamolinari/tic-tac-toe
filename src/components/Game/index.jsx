@@ -1,5 +1,5 @@
 import React from "react";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import "./Game.module.css";
 import Player from "../Player";
 import {calculateWinner} from "../calculateWinner";
