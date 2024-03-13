@@ -20,7 +20,7 @@ function Game(props) {
     const [squares, setSquares] = useState(Array(9).fill(null));
     const [playerXScore, setPlayerXScore] = useState(null);
     const [playerOScore, setPlayerOScore] = useState(null);
-    const [playerMessage, setPlayerMessage] = useState("Começar o jogo ou selecionar jogador");
+    const [playerMessage, setPlayerMessage] = useState("Start the game or select the player");
     const [winner, setWinner] = useState(null);
 
     const handleGameEnd = (result) => {
@@ -53,10 +53,10 @@ function Game(props) {
       setXIsNext(true);
     }
 
-    setPlayerMessage("Fim de jogo");
+    setPlayerMessage("Game over");
     setWinner(winner);
   } else if (nextSquares.every(square => square !== null)) {
-    setPlayerMessage("Fim de jogo");
+    setPlayerMessage("Game over");
     handleGameEnd("Draw");
   } else {
     setPlayerMessage(`Vez de ${xIsNext ? "O" : "X"}`);
@@ -68,7 +68,7 @@ function Game(props) {
     function resetGame() {
         setSquares(Array(9).fill(null));
         setXIsNext(true);
-        setPlayerMessage("Começar o jogo ou selecionar jogador");
+        setPlayerMessage("Start the game or select the player.");
         setWinner(null);
 
         if (winner === "X") {
