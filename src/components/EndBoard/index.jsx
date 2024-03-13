@@ -10,7 +10,7 @@ function EndBoard({ winner }) {
                     <img src="/X.svg" alt="X" />
                 </div>
                 <div className="text-endBoard">
-                    <h1>Winner!</h1>
+                    <h1>Winner</h1>
                 </div>
             </div>
         );
@@ -21,7 +21,7 @@ function EndBoard({ winner }) {
                     <img src="/O.svg" alt="O" />
                 </div>
                 <div className="text-endBoard">
-                    <h1>Winner!</h1>
+                    <h1>Winner</h1>
                 </div>
             </div>
         );
@@ -33,7 +33,7 @@ function EndBoard({ winner }) {
                     <img src="/O.svg" alt="O" />
                 </div>
                 <div className="text-endBoard">
-                    <h1>Draw!</h1>
+                    <h1>Draw</h1>
                 </div>
             </div>
         );
