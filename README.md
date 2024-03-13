@@ -1,7 +1,8 @@
 <h1 align="center">TIC-TAC-TOE</h1>
 
 <p align="center">
-Another personal project developed to create my portfolio as a front-end developer, this time with the goal of learning React.
+Personal project developed to create my portfolio as a front-end developer and practice my skills with React JS.
+    
 <div align="center">
     <img width="1000" alt="Tic-Tac-Toe image" src="https://github.com/anamolinari/tic-tac-toe/assets/121121296/6c15cfd0-3e9f-4208-80fb-bd1d5dc72d67">
 </div>
@@ -9,7 +10,6 @@ Another personal project developed to create my portfolio as a front-end develop
 ## Project description
 
 <p align="justify">
-Personal project developed to create my portfolio as a front-end developer and practice my skills with React JS.
 
 I used Google's layout as a reference, aiming to practice my skills and challenge myself in building interactive interfaces.
 
