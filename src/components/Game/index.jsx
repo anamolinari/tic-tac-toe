@@ -59,7 +59,7 @@ function Game(props) {
     setPlayerMessage("Game over");
     handleGameEnd("Draw");
   } else {
-    setPlayerMessage(`Vez de ${xIsNext ? "O" : "X"}`);
+    setPlayerMessage(`${xIsNext ? "O" : "X"} turn`);
     setXIsNext(!xIsNext);
   }
 
