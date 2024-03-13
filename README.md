@@ -34,7 +34,7 @@ This was my first experience with React. I'm pleased with the outcome and lookin
 
 ## Project access
 
-To access the project's source code, please [click here](https://vercel.com/anamolinari/tic-tac-toe).
+To access the project's source code, please [click here](https://tic-tac-toe-eight-beta.vercel.app/).
 
 ## Developer
 [Ana Molinari](https://www.linkedin.com/in/anahmolinari/)
