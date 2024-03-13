@@ -4,7 +4,7 @@ import "./Footer.module.css";
 function Footer({ resetGame }) {
     return (
         <div className="footer-container">
-            <button className="footer-text" onClick={resetGame}>Reiniciar jogo</button>
+            <button className="footer-text" onClick={resetGame}>Reset game</button>
         </div>
     );
 };
