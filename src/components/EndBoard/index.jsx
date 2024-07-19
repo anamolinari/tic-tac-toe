@@ -18,7 +18,6 @@ function EndBoard({ winner }) {
       <div className="combined-endBoard">
         <div className="image-endBoard">
           <img src="/O.svg" alt="O" />
-          os doi
         </div>
         <div className="text-endBoard">
           <h1>Winner!</h1>
