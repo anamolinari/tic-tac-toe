@@ -1,6 +1,5 @@
 * {
   margin: 0;
-  pad: 0;
 }
 
 
@@ -9,4 +8,11 @@
   gap: 16px; 
   justify-content: center; 
   margin-top: 100px; 
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
