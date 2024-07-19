@@ -5,6 +5,7 @@
     justify-content: center;
     background-color: #12BDAC;
     padding: 60px;
+    width: 800px;
 }
 
 .linha-tabuleiro {
@@ -37,4 +38,5 @@
 .quadrado img {
     width: 70%;
     height: 70%;
-}
+};
+
