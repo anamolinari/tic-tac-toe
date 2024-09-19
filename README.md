@@ -4,7 +4,7 @@
 Personal project developed to create my portfolio as a front-end developer and practice my skills with React JS.
     
 <div align="center">
-    <img src="https://i.imgur.com/C0SVmdk.gif">
+    <img src="https://i.imgur.com/C0SVmdk.gif" width="800" height="400">
 </div>
 
 ## Project description
