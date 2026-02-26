@@ -1,40 +1,43 @@
-<h1 align="center">TIC-TAC-TOE</h1>
-
+<h1 align="center">Tic-Tac-Toe</h1>
 <p align="center">
-Personal project developed to create my portfolio as a front-end developer and practice my skills with React.js.
-    
+Classic Tic-Tac-Toe game built with React, inspired by Google's layout.
+</p>
+
 <div align="center">
-    <img src="https://i.imgur.com/C0SVmdk.gif" width="800" height="400">
+    <a href="https://tic-tac-toe-eight-beta.vercel.app/">
+        <img src="https://i.imgur.com/C0SVmdk.gif" width="800">
+    </a>
+</div>
+</br>
+<div align="center">
+  <a href="https://tic-tac-toe-eight-beta.vercel.app/">Live Demo</a>
 </div>
 
-## Project Description
+## About
 
 <p align="justify">
+Interactive Tic-Tac-Toe game with score tracking and reset functionality, built with React. Detects wins horizontally, vertically, and diagonally, and handles draw scenarios.
+</p>
 
-I used Google's layout as a reference to practice my skills and challenge myself in building interactive interfaces.
-
-This was my first experience with React, and I'm pleased with the outcome. I look forward to the next stages of my learning journey.
+---
 
 ## Features
 
-- Enjoy a classic game of Tic-Tac-Toe with an interactive board, allowing players to make their moves by clicking on the board's squares using the mouse.
--  Receive immediate feedback on the game's progress through visual indicators that show each player's turn and a score tally that tracks all victories.
--  Take on the challenge of winning the game by achieving three in a row, whether horizontally, vertically, or diagonally. Additionally, a draw is possible when neither player completes three squares.
-- After each match, easily reset the board to initiate a new game, allowing for multiple rounds of fun.
+- Interactive board with click-to-play squares
+- Win detection — horizontal, vertical, and diagonal
+- Draw detection
+- Score tally tracking all victories
+- Reset button to start a new round
 
-## Tools Used
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- React JS
-- VSCode
+## Tech Stack
 
-###
+- React.js
+- CSS
 
-## Project Access
-
-To access the project's source code, please [click here](https://tic-tac-toe-eight-beta.vercel.app/).
+---
 
 ## Developer
-[Ana Molinari](https://www.linkedin.com/in/anahmolinari/)
+
+Developed by [Ana Molinari](https://www.linkedin.com/in/anahmolinari/)
